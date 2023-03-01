@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\bin\Debug\net6.0\Readline.exe
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\bin\Debug\net6.0\Readline.deps.json
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\bin\Debug\net6.0\Readline.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\bin\Debug\net6.0\Readline.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\bin\Debug\net6.0\Readline.pdb
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\refint\Readline.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.pdb
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\Readline.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Readline\Readline\obj\Debug\net6.0\ref\Readline.dll

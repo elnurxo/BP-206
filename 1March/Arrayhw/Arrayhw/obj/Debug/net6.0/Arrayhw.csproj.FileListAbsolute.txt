@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\bin\Debug\net6.0\Arrayhw.exe
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\bin\Debug\net6.0\Arrayhw.deps.json
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\bin\Debug\net6.0\Arrayhw.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\bin\Debug\net6.0\Arrayhw.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\bin\Debug\net6.0\Arrayhw.pdb
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\refint\Arrayhw.dll
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.pdb
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\Arrayhw.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\BP206\1March\Arrayhw\Arrayhw\obj\Debug\net6.0\ref\Arrayhw.dll
