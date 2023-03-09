@@ -1,0 +1,35 @@
+/* color name, rgb, rgba, hex code, hsl, hsla */
+#text{
+    background-color:indianred;
+}
+.paragraph{
+    font-size: 10px;
+}
+.paragraph-1{
+    background-color: rgb(25,55,100);
+}
+.paragraph-2{
+    background-color: rgba(26, 150, 28, 0.66);
+}
+.paragraph-3{
+    background-color: #cb0e00;
+}
+.paragraph-4{
+    background-color: hsl(240, 100%, 90%);
+}
+.paragraph-5{
+    background-color: hsla(240, 100%, 90%,0.9);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#box{
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+ border: 1px solid black;
+ overflow: hidden;
+}
+#box img{
+    width: 100%;
+    height: 100%;
+}

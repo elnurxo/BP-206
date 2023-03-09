@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="10">
+        <!-- table head -->
+        <thead>
+            <!-- table row -->
+            <tr>
+                <th>Person</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <!-- table body -->
+        <tbody>
+            <tr>
+                <td>Chris</td>
+                <td>39</td>
+                <td>Chris 2</td>
+                <td>29</td>
+            </tr>
+            <!-- <tr>
+              
+            </tr> -->
+            <tr>
+                <td>Chris</td>
+                <td>39</td>
+            </tr>
+            <tr>
+                <td>Chris</td>
+                <td>39</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Flavors</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td rowspan="4">Milk</td>
+            </tr>
+            <tr>
+                <td>Almond</td>
+            </tr>
+            <tr>
+                <td>Mango</td>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+            </tr>
+            <tr>
+                <td colspan="2">These are exclusive flavors</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <dl>
+        <dt><b>Drinks</b></dt>
+        <dd>Milk</dd>
+        <dd>Coffee</dd>
+    </dl>
+    <hr>
+    <form>
+        <div>
+            <label for="fullname">Full name: </label>
+            <input id="fullname" name="fullname" type="text" placeholder="enter your name">
+        </div>
+        <div>
+
+            <label for="age">Age: </label>
+            <input type="number" id="age" name="age" min="0" max="100">
+        </div>
+
+        <div>
+            <label for="password">Password: </label>
+            <input type="password" id="password" name="password" required>
+        </div>
+
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" required>
+
+        </div>
+        <div>
+            <label for="is-single">Are you married? </label>
+            <input type="checkbox" id="is-single" name="single">
+        </div>
+        <div>
+
+            <label for="male">Male: </label>
+            <input type="radio" name="gender" id="male">
+            <label for="female">Female: </label>
+            <input type="radio" name="gender" id="female">
+        </div>
+
+        <div>
+            <label for="birthdate">Birthday</label>
+            <input type="date" id="birthdate">
+        </div>
+
+        <div>
+            <input type="file" name="profile">
+        </div>
+
+        <div>
+            <input type="color" name="color">
+        </div>
+
+        <input type="range">
+
+        <input type="tel" placeholder="enter your phone number" name="phone">
+
+        <select name="nationality">
+           <optgroup>
+            <option value="az">Azerbaijan</option>
+            <option  value="ru">Russia</option>
+            <option value="ukr">Ukraine</option>
+           </optgroup>
+           <optgroup>
+            <option value="uk">United kingdom</option>
+            <option selected value="tr">Turkey</option>
+            <option value="th">Thailand</option>
+           </optgroup>
+        </select>
+
+        <textarea name="" id="" cols="40" rows="20"></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
