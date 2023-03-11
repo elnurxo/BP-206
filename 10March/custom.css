@@ -1,0 +1,18 @@
+.my-container{
+    border: 2px solid red;
+    width: 80%;
+    margin: 0 auto;
+}
+.box{
+    border: 1px solid green;
+}
+.vip-container{
+    height: 80px;
+}
+.img-container{
+    float: right;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+}
