@@ -1,0 +1,55 @@
+header{
+    border-bottom: 1px solid lightgrey;
+}
+.dark-header{
+    border-bottom: 1px solid black;
+}
+nav{
+    height: 60px;
+}
+nav .container, nav .row{
+    height: 100%;
+}
+.dark-nav{
+    background-color: rgb(43,56,68);
+    color: white;
+}
+.dark-main{
+    background-color: rgb(32,44,54);
+}
+.dark-input, .dark-select{
+    background-color: rgb(43,56,68);
+}
+.dark-input::placeholder{
+    color: white;
+}
+.dark-select{
+    color: white;
+}
+main{
+    background-color: rgb(250,250,250);
+    padding-top: 50px;
+}
+.mode-wrapper{
+    cursor: pointer;
+    user-select: none;
+}
+.input-wrapper input, .select-wrapper select{
+    padding: 15px 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: none;
+}
+.cards-row{
+    margin-top: 40px;
+}
+.cards-row .card{
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-bottom: 24px;
+}
+.card-body{
+    height: 200px;
+}
+.card-data p{
+    margin-bottom: 5px;
+}
